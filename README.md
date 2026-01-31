@@ -1,3 +1,16 @@
+# Promethus Screenshot
+
+<img width="1914" height="963" alt="Screenshot 2026-01-29 215920" src="https://github.com/user-attachments/assets/78fb0f3c-1e9d-43cf-8c13-956ce686d6a0" />
+
+
+# Grafana Dashboards Screenshot
+<img width="1910" height="958" alt="Screenshot 2026-01-29 222822" src="https://github.com/user-attachments/assets/84fde4b9-b997-4e2e-a475-5d843b6b6b2f" />
+
+<img width="1917" height="967" alt="Screenshot 2026-01-29 222852" src="https://github.com/user-attachments/assets/4dbc3d3f-07e8-43e2-b3d3-16c5f3e7e6d1" />
+
+<img width="1919" height="1034" alt="Screenshot 2026-01-29 222942" src="https://github.com/user-attachments/assets/53adc775-0013-4f4a-bf16-c317aea4ba89" />
+
+
 # phase 6 monitor everything
 ## Environment
 this edition is tested on 
