@@ -1,4 +1,4 @@
-# Promethus Screenshot
+# Prometheus Screenshot
 
 <img width="1914" height="963" alt="Screenshot 2026-01-29 215920" src="https://github.com/user-attachments/assets/78fb0f3c-1e9d-43cf-8c13-956ce686d6a0" />
 
